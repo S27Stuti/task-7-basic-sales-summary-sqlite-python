@@ -1,0 +1,1 @@
+# task-7-basic-sales-summary-sqlite-python
